@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homepwner</string>
+    <string name="item_name_label">Nombre</string>
+    <string name="item_serial_hint">Introduzca un número de serie para el artículo.</string>
+    <string name="item_serial_label">Serial</string>
+    <string name="item_value_hint">Introduzca el valor del articulo.</string>
+    <string name="item_value_label">Valor</string>
+    <string name="date_picker_title">Fecha del artículo</string>
+    <string name="new_item">Nuevo artículo</string>
+    <string name="item_report_text">Enviar informe</string>
+    <string name="item_name_hint">Escriba un nombre para el artículo</string>
+    <string name="send_report">Enviar informe de artículos a través de</string>
+    <string name="item_report_subject">Informe de artículos de Homepwner</string>
+</resources>

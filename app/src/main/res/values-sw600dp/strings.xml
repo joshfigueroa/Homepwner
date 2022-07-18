@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="item_name_hint">
+        Introduce un título significativo
+            y memorable para el artículo.    </string>
+</resources>
